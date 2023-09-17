@@ -1,1 +1,0 @@
-TRUNCATE order_details;
