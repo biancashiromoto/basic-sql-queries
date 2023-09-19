@@ -1,4 +1,4 @@
-# 🐬 Northwind Database SQL Queries
+# 🐬 Basic SQL Queries
 
 ## 🇺🇸 About this project
 
