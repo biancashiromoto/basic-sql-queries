@@ -6,7 +6,7 @@ This project was developed as part of a Web Development course and focuses on a 
 These queries cover SELECT, UPDATE and INSERT operations, and contain explanations for each requirement.
 
 ## 📝 Installation
-1. Clone the repository `git@github.com:biancashiromoto/03-project-pixels-art.git`
+1. Clone the repository `git@github.com:biancashiromoto/sql-queries-01.git`
 2. Run the `node` and the `db` services using `docker-compose up -d` - this will automatically create the database
 3. Connect to database using the relational database management system of your preference. The credentials to access the database are in the `docker-compose.yml` file
 4. Use the queries in the challenges files to manage data from the database
@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como parte de um curso de Desenvolvimento Web e fo
 Estas queries cobrem operações de SELECT, UPDATE e INSERT, e contém explicações para cada requisito.
 
 ## 📝 Instalação
-1. Clone o repositório `git@github.com:biancashiromoto/03-project-pixels-art.git`
+1. Clone o repositório `git@github.com:biancashiromoto/sql-queries-01.git`
 2. Rode os serviços do `node` e do `db` usando `docker-compose up -d` - isso vai criar o banco de dados automaticamente
 3. Conecte-se ao banco de dados usando sua ferramenta de gerenciamento de dados de sua preferência. As credenciais para acessar o banco de dados estão no arquivo `docker-compose.yml`
 4. Utilize as queries nos arquivos <i>challenge</i> para manipular dados do banco de dados
