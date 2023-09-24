@@ -2,7 +2,7 @@
 
 ## 🇺🇸 About this project
 
-This project was developed as part of a Web Development course and focuses on a set of SQL queries to retrieve and manipulate data from the "Northwind" database.
+This project was developed as part of a Web Development course and focuses on a set of SQL queries to retrieve and manipulate data from the "Northwind" database.<br>
 These queries cover SELECT, UPDATE and INSERT operations and are in the files entitled `challenge##`. Each of the files contain explanations for each project requirement.
 
 ## 📝 Installation
@@ -15,7 +15,7 @@ These queries cover SELECT, UPDATE and INSERT operations and are in the files en
 
 ## 🇧🇷 Sobre este projeto
 
-Este projeto foi desenvolvido como parte de um curso de Desenvolvimento Web e foca em uma série de <i>queries</i> SQL para obter e manipular dados do banco de dados <i>"Northwind"</i>.
+Este projeto foi desenvolvido como parte de um curso de Desenvolvimento Web e foca em uma série de <i>queries</i> SQL para obter e manipular dados do banco de dados <i>"Northwind"</i>.<br>
 Estas <i>queries</i> cobrem operações de SELECT, UPDATE e INSERT e estão nos arquivos entitulados `challenge##`. Cada um dos arquivos contém explicações para cada requisito do projeto.
 
 ## 📝 Instalação
