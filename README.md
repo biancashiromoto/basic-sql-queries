@@ -15,7 +15,7 @@ These queries cover SELECT, UPDATE and INSERT operations, and contain explanatio
 
 ## 🇧🇷 Sobre este projeto
 
-Este projeto foi desenvolvido como parte de um curso de Desenvolvimento Web e foca em uma série de queries SQL para obter e manipular dados do banco de dados <i>"Northwind"</i>.
+Este projeto foi desenvolvido como parte de um curso de Desenvolvimento Web e foca em uma série de <i>queries</i> SQL para obter e manipular dados do banco de dados <i>"Northwind"</i>.
 Estas queries cobrem operações de SELECT, UPDATE e INSERT, e contém explicações para cada requisito.
 
 ## 📝 Instalação
