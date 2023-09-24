@@ -3,7 +3,7 @@
 ## 🇺🇸 About this project
 
 This project was developed as part of a Web Development course and focuses on a set of SQL queries to retrieve and manipulate data from the "Northwind" database.
-These queries cover SELECT, UPDATE and INSERT operations, and contain explanations for each requirement.
+These queries cover SELECT, UPDATE and INSERT operations and are in the files entitled `challenge##`. Each of the files contain explanations for each project requirement.
 
 ## 📝 Installation
 1. Clone the repository `git@github.com:biancashiromoto/basic-sql-queries.git`
@@ -16,13 +16,13 @@ These queries cover SELECT, UPDATE and INSERT operations, and contain explanatio
 ## 🇧🇷 Sobre este projeto
 
 Este projeto foi desenvolvido como parte de um curso de Desenvolvimento Web e foca em uma série de <i>queries</i> SQL para obter e manipular dados do banco de dados <i>"Northwind"</i>.
-Estas <i>queries</i> cobrem operações de SELECT, UPDATE e INSERT, e contém explicações para cada requisito.
+Estas <i>queries</i> cobrem operações de SELECT, UPDATE e INSERT e estão nos arquivos entitulados `challenge##`. Cada um dos arquivos contém explicações para cada requisito do projeto.
 
 ## 📝 Instalação
 1. Clone o repositório `git@github.com:biancashiromoto/basic-sql-queries.git`
 2. Rode os serviços do `node` e do `db` usando `docker-compose up -d` - isso vai criar o banco de dados automaticamente
 3. Conecte-se ao banco de dados usando sua ferramenta de gerenciamento de dados de sua preferência. As credenciais para acessar o banco de dados estão no arquivo `docker-compose.yml`
-4. Utilize as queries nos arquivos <i>challenge</i> para manipular dados do banco de dados
+4. Utilize as <i>queries</i> nos arquivos <i>challenge</i> para manipular dados do banco de dados
 
 > 💬 Se tiver alguma sugestão ou feedback, eu ficaria feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
