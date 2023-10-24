@@ -11,7 +11,7 @@ These queries cover SELECT, UPDATE and INSERT operations and are in the files en
 3. Connect to database using the relational database management system of your preference. The credentials to access the database are in the `docker-compose.yml` file
 4. Use the queries in the challenges files to manage data from the database
 
-> 💬 If you have any suggestions or feedbacks, I would be happy to recieve them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
+> 💬 If you have any suggestions or feedbacks, I would be happy to receive them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 ## 🇧🇷 Sobre este projeto
 
